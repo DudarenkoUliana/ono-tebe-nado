@@ -220,7 +220,7 @@
     font-size: 22px;
     line-height: 120%;
     text-decoration-line: underline;
-    text-transform: uppercase;    
+    text-transform: uppercase;
     color: #FFF;
     z-index: 3;
 }
@@ -237,7 +237,7 @@
 }
 
 .lots__look-more-link {
-    padding-left: 40px; 
+    padding-left: 40px;
     padding-top: 30px;
     box-sizing: border-box;
     font-weight: 400;
